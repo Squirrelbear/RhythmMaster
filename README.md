@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Rhythm Master game works.
 
+- ([Youtube Demo](https://youtu.be/4x6l2AiYHOM))
+
 # 1.3 The Rules of Rhythm Master
 
 There are many different variations of the Rhythm genre. Titles such as Guitar Hero have
